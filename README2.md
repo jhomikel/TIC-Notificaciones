@@ -27,8 +27,8 @@ Escribe el detalle de las versiones del proyecto
 A list of technologies used within the project:
 * [Patrones de desarrollo de PHP](https://refactoring.guru/es/design-patterns/php): Version 1.0.0 
 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+## Diseño del sistema
+![Diagrama de clases](https://es.wikipedia.org/wiki/Diagrama_de_clases#/media/Archivo:Diagrama_de_clases.svg)
 
 ## Installation
 ***
