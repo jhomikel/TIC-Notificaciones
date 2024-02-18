@@ -57,7 +57,7 @@ Side information: To use the application in a special environment use ```lorem i
 ## Documentación de la API
 ***
 Colocar el enlace de la documentación de la API (En caso de ser microservicios).
-* [Documentacón de la API](https://refactoring.guru/es/design-patterns/php](https://pokeapi.co/): Version 1.0.0
+* [Documentacón de la API](https://pokeapi.co/): Version 1.0.0
 ## FAQs
 ***
 Listado de preguntas, comentarios y notas que sean relevantes en cada una de las versiones del aplicativo
