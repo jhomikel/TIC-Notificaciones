@@ -9,10 +9,10 @@
 ### Descripción
 ***
 Escribe la descripción del proyecto
-### Autores
+### Colaboradores
 ***
 Listado de las versiones del proyecto con la siguiente información:
-* Mikel Escobar: Regional Consultant
+> Mikel Escobar: Regional Consultant
 
 ### Control de versiones
 ***
@@ -22,6 +22,18 @@ Escribe el detalle de las versiones del proyecto
 * Version 1.1.0: Describir el cambio significativo del proyecto
 * Version 2.0.0: Describir el cambio de alcance del proyecto
 
+### Estructura de la aplicación
+***
+Escribe la estructura de directorios del proyecto
+* Componente1
+  * Categoria1
+    * Objeto1
+    * Objeto2
+* Componente2
+  * Categoria2
+    * Objeto3
+    * Objeto4
+
 ## Technologies
 ***
 A list of technologies used within the project:
@@ -30,9 +42,11 @@ A list of technologies used within the project:
 ## Diseño del sistema
 ![Diagrama de clases](https://okdiario.com/img/2018/11/07/mira-en-que-consiste-un-diagrama-de-clases-655x368.jpg)
 
-## Installation
+## Instrucciones para preparar el ambiente de desarrollo
 ***
-A little intro about the installation. 
+Instrucciones para descargar el IDE de programación.
+
+Configuraciones necesarias:
 ```
 $ git clone https://example.com
 $ cd ../path/to/the/file
@@ -40,25 +54,19 @@ $ npm install
 $ npm start
 ```
 Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
+## Documentación de la API
 ***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
+Colocar el enlace de la documentación de la API (En caso de ser microservicios).
+* [Documentacón de la API](https://refactoring.guru/es/design-patterns/php](https://pokeapi.co/): Version 1.0.0
 ## FAQs
 ***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+Listado de preguntas, comentarios y notas que sean relevantes en cada una de las versiones del aplicativo
+1. **Pregunta1**
+Respuesta _Parte principal de la respuesta_. 
+2. **Comentario1**
+Comantario _Parte principal del comentario_
+* Observación1
+* Observación2
+* Observación3
+3. **Notas**
+Notas _Parte principal de la nota_
