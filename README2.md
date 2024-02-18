@@ -28,7 +28,7 @@ A list of technologies used within the project:
 * [Patrones de desarrollo de PHP](https://refactoring.guru/es/design-patterns/php): Version 1.0.0 
 
 ## Diseño del sistema
-![Diagrama de clases](https://es.wikipedia.org/wiki/Diagrama_de_clases#/media/Archivo:Diagrama_de_clases.svg)
+![Diagrama de clases](https://okdiario.com/img/2018/11/07/mira-en-que-consiste-un-diagrama-de-clases-655x368.jpg)
 
 ## Installation
 ***
