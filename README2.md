@@ -5,7 +5,8 @@
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 
-### Descripción del proyecto
+## Generalidades del proyecto
+### Descripción
 ***
 Escribe la descripción del proyecto
 ### Autores
@@ -20,14 +21,15 @@ Escribe el detalle de las versiones del proyecto
 * Version 1.0.1: Describir el cambio menor del proyecto
 * Version 1.1.0: Describir el cambio significativo del proyecto
 * Version 2.0.0: Describir el cambio de alcance del proyecto
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [Patrones de desarrollo de PHP](https://refactoring.guru/es/design-patterns/php): Version 1.0.0 
+
+### Screenshot
+![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+
 ## Installation
 ***
 A little intro about the installation. 
